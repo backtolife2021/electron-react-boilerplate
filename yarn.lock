@@ -2469,9 +2469,9 @@
     source-map "^0.7.3"
 
 "@types/webpack@^4.41.21":
-  version "4.41.21"
-  resolved "https://registry.npm.taobao.org/@types/webpack/download/@types/webpack-4.41.21.tgz?cache=0&sync_timestamp=1594147517379&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40types%2Fwebpack%2Fdownload%2F%40types%2Fwebpack-4.41.21.tgz#cc685b332c33f153bb2f5fc1fa3ac8adeb592dee"
-  integrity sha1-zGhbMywz8VO7L1/B+jrIretZLe4=
+  version "4.41.23"
+  resolved "https://registry.yarnpkg.com/@types/webpack/-/webpack-4.41.23.tgz#1925f42a7325be4ae0fce38329f1cc27768fcda7"
+  integrity sha512-ojA4CupZg8RCzVJLugWlvqrHpT59GWhqFxbinlsnvk10MjQCWB+ot7XDACctbWhnhtdhYK7+HOH1JxkVLiZhMg==
   dependencies:
     "@types/anymatch" "*"
     "@types/node" "*"
