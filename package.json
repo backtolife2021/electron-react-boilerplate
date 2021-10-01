@@ -136,7 +136,7 @@
     "@types/react-router-dom": "^5.1.9",
     "@types/react-test-renderer": "^16.9.5",
     "@types/rebass": "^4.0.9",
-    "@types/redux-logger": "^3.0.8",
+    "@types/redux-logger": "^3.0.9",
     "@types/testing-library__react-hooks": "^3.4.1",
     "@types/webpack": "^4.41.21",
     "@types/webpack-env": "^1.15.2",
